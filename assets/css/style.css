@@ -1,20 +1,10 @@
 
-.img-servicos-app {
+.img-padrao {
     width: 300px;
 }
 
-.img-clientes {
-    width: 300px;
+body {
+    margin-left: 50px;
+    margin-bottom: 40px;
+    background-color: #F6EBE9;
 }
-
-.img-parceiros {
-    width: 300px;
-}
-
-.img-time {
-    width: 300px;
-}
-
-.img-contato {
-    width: 300px;
-} 
